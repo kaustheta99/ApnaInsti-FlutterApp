@@ -1,6 +1,6 @@
 # InstiApp
 
-Flutter App for Indian Institute of Technology, Bombay (for iOS support)
+Flutter App for Indian Institute of Technology, Kharagpur (for iOS support)
 
 ## Changelog
 
